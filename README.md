@@ -28,3 +28,4 @@ Implementation of Decision Trees, Bagged Decision Trees and Random Forest for Cl
 
 
 Methodolody and results are present in the report included.
+Code is commented at the bottom with titles for type of usage. Uncomment and run the necessary parts.
